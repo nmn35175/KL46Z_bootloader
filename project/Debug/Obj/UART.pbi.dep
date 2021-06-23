@@ -1,0 +1,15 @@
+UART.pbi: D:\IAR\Bootloader\source\UART.c \
+  D:\IAR\Bootloader\project\..\MKL46Z\MKL46Z4.h \
+  D:\IAR\Bootloader\project\..\CMSIS\Include\core_cm0plus.h \
+  D:\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\stdint.h \
+  D:\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\ycheck.h \
+  D:\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\yvals.h \
+  D:\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\DLib_Defaults.h \
+  D:\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\DLib_Config_Normal.h \
+  D:\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\DLib_Product.h \
+  D:\IAR\Bootloader\project\..\CMSIS\Include/core_cmInstr.h \
+  D:\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\cmsis_iar.h \
+  D:\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c/iccarm_builtin.h \
+  D:\IAR\Bootloader\project\..\CMSIS\Include/core_cmFunc.h \
+  D:\IAR\Bootloader\project\..\MKL46Z/system_MKL46Z4.h \
+  D:\IAR\Bootloader\source/UART.h

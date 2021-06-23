@@ -1,0 +1,15 @@
+"D:\IAR Systems\Embedded Workbench 8.4\arm\bin\armproc.dll" 
+
+"D:\IAR Systems\Embedded Workbench 8.4\arm\bin\armjlink2.dll" 
+
+"D:\IAR\Bootloader\project\Debug\Exe\Bootloader.out" 
+
+--plugin="D:\IAR Systems\Embedded Workbench 8.4\arm\bin\armbat.dll" 
+
+--device_macro="D:\IAR Systems\Embedded Workbench 8.4\arm\config\debugger\NXP\KLxx.dmac" 
+
+--flash_loader="D:\IAR Systems\Embedded Workbench 8.4\arm\config\flashloader\NXP\FlashKLxx256K.board" 
+
+
+
+
